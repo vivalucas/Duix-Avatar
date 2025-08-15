@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <h1>HeyGem - Open Source Alternative to Heygen</h1>
+  <h1>DuixAvatar - Open Source Alternative to Heygen</h1>
 </div>
 
 # Table of Contents
 
-1. [What's HeyGem](#1-whats-heygem)
+1. [What's DuixAvatar](#1-whats-DuixAvatar)
 2. [Introduction](#2-introduction)
 3. [How to Run Locally](#3-how-to-run-locally)
 4. [Open APIs](#4-open-apis)
@@ -22,17 +22,17 @@
 
 ------
 
-## 1. What's HeyGem
+## 1. What's DuixAvatar
 
-**HeyGem** is a free and open-source AI avatar project developed by **Duix.com**.
+**DuixAvatar** is a free and open-source AI avatar project developed by **Duix.com**.
 
-Seven years ago, a group of young pioneers chose an unconventional technical path, developing a method to train digital human models using real-person video data. Unlike traditional costly 3D digital human approaches, we leveraged AI-generated technology to create ultra-realistic digital humans, slashing production costs from hundreds of thousands of dollars to just $1,000. This innovation has empowered over 10,000 enterprises and generated over 500,000 personalized avatars for professionals across fields – educators, content creators, legal experts, medical practitioners, and entrepreneurs – dramatically enhancing their video production efficiency. However, our vision extends beyond commercial applications. We believe this transformative technology should be accessible to everyone. To democratize digital human creation, we've open-sourced our cloning technology and video production framework. Our commitment remains: breaking down technological barriers to make cutting-edge tools available to all. Now, anyone with a computer can freely craft their own AI Avatar and produce videos at zero cost – this is the essence of  **HeyGem**.
+Seven years ago, a group of young pioneers chose an unconventional technical path, developing a method to train digital human models using real-person video data. Unlike traditional costly 3D digital human approaches, we leveraged AI-generated technology to create ultra-realistic digital humans, slashing production costs from hundreds of thousands of dollars to just $1,000. This innovation has empowered over 10,000 enterprises and generated over 500,000 personalized avatars for professionals across fields – educators, content creators, legal experts, medical practitioners, and entrepreneurs – dramatically enhancing their video production efficiency. However, our vision extends beyond commercial applications. We believe this transformative technology should be accessible to everyone. To democratize digital human creation, we've open-sourced our cloning technology and video production framework. Our commitment remains: breaking down technological barriers to make cutting-edge tools available to all. Now, anyone with a computer can freely craft their own AI Avatar and produce videos at zero cost – this is the essence of  **DuixAvatar**.
 
 ## 2. Introduction
 
 ![img](README.assets/2.png)
 
-Heygem is a fully offline video synthesis tool designed for Windows systems that can precisely clone your appearance and voice, digitalizing your image. You can create videos by driving virtual avatars through text and voice. No internet connection is required, protecting your privacy while enjoying convenient and efficient digital experiences.
+DuixAvatar is a fully offline video synthesis tool designed for Windows systems that can precisely clone your appearance and voice, digitalizing your image. You can create videos by driving virtual avatars through text and voice. No internet connection is required, protecting your privacy while enjoying convenient and efficient digital experiences.
 
 - Core Features
   - Precise Appearance and Voice Cloning: Using advanced AI algorithms to capture human facial features with high precision, including facial features, contours, etc., to build realistic virtual models. It can also precisely clone voices, capturing and reproducing subtle characteristics of human voices, supporting various voice parameter settings to create highly similar cloning effects.
@@ -52,9 +52,9 @@ Heygem is a fully offline video synthesis tool designed for Windows systems that
 
 ## 3. How to Run Locally
 
-HeyGem supports Docker-based rapid deployment. Prior to deployment, ensure your hardware and software environments meet the specified requirements.
+DuixAvatar supports Docker-based rapid deployment. Prior to deployment, ensure your hardware and software environments meet the specified requirements.
 
-HeyGem support two deployment modes：Windows / Ubuntu 22.04 Installation
+DuixAvatar support two deployment modes：Windows / Ubuntu 22.04 Installation
 
 ### **Dependencies**
 
@@ -62,7 +62,7 @@ HeyGem support two deployment modes：Windows / Ubuntu 22.04 Installation
 2. Docker Images
    - docker pull guiji2025/fun-asr
    - docker pull guiji2025/fish-speech-ziming
-   - docker pull guiji2025/heygem.ai
+   - docker pull guiji2025/DuixAvatar.ai
 
 
 
@@ -130,7 +130,7 @@ Installation using Docker, docker-compose as follows:
 1. The `docker-compose.yml` file is in the `/deploy` directory.
 2. Execute `docker-compose up -d` in the `/deploy` directory, if you want to use the lite version, execute `docker-compose -f docker-compose-lite.yml up -d`
 3. Wait patiently (about half an hour, speed depends on network), download will consume about 70GB of traffic, make sure to use WiFi
-4. When you see three services in Docker, it indicates success (the lite version has only one service `heygem-gen-video`)
+4. When you see three services in Docker, it indicates success (the lite version has only one service `DuixAvatar-gen-video`)
 
     ![img](README.assets/6.png)
 
@@ -140,8 +140,8 @@ For 50 series graphics cards (tested and also works for 30/40 series with CUDA 1
 
 #### **Client**
 
-1. Directly download the [officially built installation package](https://github.com/GuijiAI/HeyGem.ai/releases)
-2. Double-click `HeyGem-x.x.x-setup.exe` to install
+1. Directly download the [officially built installation package](https://github.com/GuijiAI/DuixAvatar.ai/releases)
+2. Double-click `DuixAvatar-x.x.x-setup.exe` to install
 
 ### Mode 2：Ubuntu 22.04 Installation
 
@@ -213,10 +213,10 @@ docker-compose -f docker-compose-linux.yml up -d
 
 #### **Install the client**
 
-1. Directly download the Linux version of the [officially built installation package](https://github.com/GuijiAI/HeyGem.ai/releases).
-2. Double click `HeyGem-x.x.x.AppImage` to launch it. No installation is required.
+1. Directly download the Linux version of the [officially built installation package](https://github.com/GuijiAI/DuixAvatar.ai/releases).
+2. Double click `DuixAvatar-x.x.x.AppImage` to launch it. No installation is required.
 
-Reminder: In the Ubuntu system, if you enter the desktop as the `root` user, directly double - clicking `HeyGem - x.x.x.AppImage` may not work. You need to execute `./HeyGem - x.x.x.AppImage --no - sandbox` in the command - line terminal. Adding the `--no - sandbox` parameter will do the trick.
+Reminder: In the Ubuntu system, if you enter the desktop as the `root` user, directly double - clicking `DuixAvatar - x.x.x.AppImage` may not work. You need to execute `./DuixAvatar - x.x.x.AppImage --no - sandbox` in the command - line terminal. Adding the `--no - sandbox` parameter will do the trick.
 
 
 
@@ -235,7 +235,7 @@ For specific code, refer to:
 1. Separate video into silent video + audio
 2. Place audio in
 
-    `D:\heygem_data\voice\data` is agreed with the `guiji2025/fish-speech-ziming` service, can be modified in docker-compose
+    `D:\DuixAvatar_data\voice\data` is agreed with the `guiji2025/fish-speech-ziming` service, can be modified in docker-compose
 
 3. Call the
 
@@ -289,7 +289,7 @@ GET request, the parameter `taskCode` is the `code` from the synthesis interface
 
 we are now announcing two parallel service solutions:
 
-| **Project**              | **HeyGem Open Source Local Deployment**                      | **Digital Human/Clone Voice API Service**                    |
+| **Project**              | **DuixAvatar Open Source Local Deployment**                      | **Digital Human/Clone Voice API Service**                    |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Usage                    | Open Source Local Deployment                                 | Rapid Clone API Service                                      |
 | Recommended              | Technical Users                                              | Business Users                                               |
@@ -310,7 +310,7 @@ We look forward to working with you to promote the inclusive development of digi
 
 
 
-You can chat with Heygem Digital Human on the official website: https://duix.com/
+You can chat with DuixAvatar Digital Human on the official website: https://duix.com/
 
 We also provide  APl at DUIX Platform: https://docs.duix.com/api-reference/api/Introduction
 
@@ -319,7 +319,7 @@ We also provide  APl at DUIX Platform: https://docs.duix.com/api-reference/api/I
 ### **[Nvidia 50 Series GPU Version Notice]**
 
 1. Tested and verified on 5090 GPU
-2. For installation instructions, see [Server Deployment Solution for NVIDIA 50 Series Graphics Cards](https://github.com/duixcom/Duix.Heygem?tab=readme-ov-file#Server-Deployment-Solution-for-NVIDIA-50-Series-Graphics-Cards)
+2. For installation instructions, see [Server Deployment Solution for NVIDIA 50 Series Graphics Cards](https://github.com/duixcom/Duix.DuixAvatar?tab=readme-ov-file#Server-Deployment-Solution-for-NVIDIA-50-Series-Graphics-Cards)
 
 ### **[New Ubuntu Version Notice]**
 
@@ -330,7 +330,7 @@ We also provide  APl at DUIX Platform: https://docs.duix.com/api-reference/api/I
 3. Fixed some known issues
    - \#304
    - \#292
-4. [Ubuntu22.04 Installation Documentation](https://github.com/GuijiAI/HeyGem.ai?tab=readme-ov-file#ubuntu-2204-installation)
+4. [Ubuntu22.04 Installation Documentation](https://github.com/GuijiAI/DuixAvatar.ai?tab=readme-ov-file#ubuntu-2204-installation)
 
 ## 6. FAQ
 
@@ -347,7 +347,7 @@ All computing power for this project is local. The three services won't start wi
 3. Ensure both server and client are updated to the latest version. The project is newly open-sourced, the community is very active, and updates are frequent. Your issue might have been resolved in a new version.
    - Server: Go to `/deploy` directory and re-execute `docker-compose up -d`
    - Client: `pull` code and re-`build`
-4. [GitHub Issues](https://github.com/GuijiAI/HeyGem.ai/issues) are continuously updated, issues are being resolved and closed daily. Check frequently, your issue might already be resolved.
+4. [GitHub Issues](https://github.com/GuijiAI/DuixAvatar.ai/issues) are continuously updated, issues are being resolved and closed daily. Check frequently, your issue might already be resolved.
 
 ### **Question Template**
 
@@ -368,7 +368,7 @@ Describe the reproduction steps in detail, with screenshots if possible.
 
 ## 7. How to Interact in real time
 
-HeyGem's digital human realizes digital human cloning and non-real-time video synthesis.
+DuixAvatar's digital human realizes digital human cloning and non-real-time video synthesis.
 
 If you want a digital human to support interaction, you can visit [duix.com](www.duix.com) to experience the free test.
 
@@ -378,7 +378,7 @@ If you have any questions, please raise an issue or contact us at james@duix.com
 
 ## 9. License
 
-https://github.com/GuijiAI/HeyGem.ai/blob/main/LICENSE
+https://github.com/GuijiAI/DuixAvatar.ai/blob/main/LICENSE
 
 ## 10. Acknowledgments
 
@@ -387,4 +387,4 @@ https://github.com/GuijiAI/HeyGem.ai/blob/main/LICENSE
 
 ## 11. Star History
 
-[GitHub Star History](https://www.star-history.com/#GuijiAI/HeyGem.ai&Date)
+[GitHub Star History](https://www.star-history.com/#GuijiAI/DuixAvatar.ai&Date)

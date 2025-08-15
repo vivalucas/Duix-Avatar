@@ -1,5 +1,5 @@
-appId: com.heygem.app
-productName: HeyGem
+appId: com.DuixAvatar.app
+productName: DuixAvatar
 directories:
   buildResources: build
 files:
@@ -11,7 +11,7 @@ files:
 asarUnpack:
   - resources/**
 win:
-  executableName: HeyGem
+  executableName: DuixAvatar
 nsis:
   oneClick: false
   allowElevation: true
