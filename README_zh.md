@@ -434,4 +434,4 @@ docker-compose -f docker-compose-linux.yml up -d
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/Duix.Avatar&type=Date)](https://www.star-history.com/#GuijiAI/Duix.Avatar&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/Duix.Avatar&type=Date)](https://www.star-history.com/#duixcom/Duix.Avatar&Date)

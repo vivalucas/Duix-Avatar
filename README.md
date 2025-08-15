@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="README.assets/1.png" style="width: 220px; height: auto;"/>
-</div>
-
-<div align="center">
-  <h1>Duix.Avatar - Open Source Alternative to Heygen</h1>
+  <img src="README.assets/1.png" style="width: 580px; height: auto;"/>
 </div>
 
 # Table of Contents
@@ -387,4 +383,4 @@ https://github.com/duixcom/Duix.Avatar/blob/main/LICENSE
 
 ## 11. Star History
 
-[GitHub Star History](https://www.star-history.com/#GuijiAI/Duix.Avatar&Date)
+[GitHub Star History](https://www.star-history.com/#duixcom/Duix.Avatar&Date)
