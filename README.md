@@ -319,7 +319,7 @@ We also provide  APl at DUIX Platform: https://docs.duix.com/api-reference/api/I
 ### **[Nvidia 50 Series GPU Version Notice]**
 
 1. Tested and verified on 5090 GPU
-2. For installation instructions, see [Server Deployment Solution for NVIDIA 50 Series Graphics Cards](https://github.com/duixcom/Duix.Duix.Avatar?tab=readme-ov-file#Server-Deployment-Solution-for-NVIDIA-50-Series-Graphics-Cards)
+2. For installation instructions, see [Server Deployment Solution for NVIDIA 50 Series Graphics Cards](#Server-Deployment-Solution-for-NVIDIA-50-Series-Graphics-Cards)
 
 ### **[New Ubuntu Version Notice]**
 
