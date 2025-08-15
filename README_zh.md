@@ -74,9 +74,9 @@ Duix.Avatar 数字人克隆智能体和插件已成功上线至Coze 平台 ，�
 
     （1）基础奖励
 
-       内容获得 20-100 点赞，获评【Duix.Avatar.ai 大师奖】及 20 元现金大师🧧
+       内容获得 20-100 点赞，获评【Duix.Avatar 大师奖】及 20 元现金大师🧧
 
-       内容获得 100+ 点赞，获评【Duix.Avatar.ai 之神奖】及 50 元现金大神🧧
+       内容获得 100+ 点赞，获评【Duix.Avatar 之神奖】及 50 元现金大神🧧
 
     （2）特殊成就：
 
@@ -135,7 +135,7 @@ Duix.Avatar是一款专为Windows系统设计的全离线视频合成工具，�
 2. Docker Image
    - docker pull guiji2025/fun-asr
    - docker pull guiji2025/fish-speech-ziming
-   - docker pull guiji2025/Duix.Avatar.ai
+   - docker pull guiji2025/heygem.ai
 
 ## Windows 安装
 
@@ -434,4 +434,4 @@ docker-compose -f docker-compose-linux.yml up -d
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/Duix.Avatar.ai&type=Date)](https://www.star-history.com/#GuijiAI/Duix.Avatar.ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/Duix.Avatar&type=Date)](https://www.star-history.com/#GuijiAI/Duix.Avatar&Date)
