@@ -1,5 +1,5 @@
-appId: com.DuixAvatar.app
-productName: DuixAvatar
+appId: com.Duix.Avatar.app
+productName: Duix.Avatar
 directories:
   buildResources: build
 files:
@@ -11,7 +11,7 @@ files:
 asarUnpack:
   - resources/**
 win:
-  executableName: DuixAvatar
+  executableName: Duix.Avatar
 nsis:
   oneClick: false
   allowElevation: true

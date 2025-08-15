@@ -1,6 +1,6 @@
-# DuixAvatar [【Switch to English】](./README.md)
+# Duix.Avatar [【Switch to English】](./README.md)
 ## 【项目介绍】
-DuixAvatar数字人是由硅基智能发布的免费开源项目，支持本地部署/API调用。
+Duix.Avatar数字人是由硅基智能发布的免费开源项目，支持本地部署/API调用。
 
 仅需提交一段10秒左右的视频，即可快速完成数字人形象和声音克隆，输入文案或上传音频即可驱动数字人口型，自动生成口播播报视频。
 
@@ -23,15 +23,15 @@ DuixAvatar数字人是由硅基智能发布的免费开源项目，支持本地�
 3. 修复一些已知问题
    - #304
    - #292
-4. [Ubuntu22.04 安装文档](https://github.com/GuijiAI/DuixAvatar.ai/blob/main/README_zh.md#ubuntu2204-%E5%AE%89%E8%A3%85)
+4. [Ubuntu22.04 安装文档](https://github.com/duixcom/Duix.Avatar/blob/main/README_zh.md#ubuntu2204-%E5%AE%89%E8%A3%85)
 
 ## 【致开发者伙伴】
 
-**亲爱的DuixAvatar开源社区成员：**
+**亲爱的Duix.Avatar开源社区成员：**
 
-衷心感谢各位对DuixAvatar数字人开源项目的热情关注与积极参与！我们注意到部分开发者在本地部署环节遇到挑战，为更好地满足不同场景需求，现同步告知两项并行服务方案：
+衷心感谢各位对Duix.Avatar数字人开源项目的热情关注与积极参与！我们注意到部分开发者在本地部署环节遇到挑战，为更好地满足不同场景需求，现同步告知两项并行服务方案：
 
-| **项目** | **DuixAvatar开源本地部署**                                                             | **数字人/克隆音API接口服务**                                              |
+| **项目** | **Duix.Avatar开源本地部署**                                                             | **数字人/克隆音API接口服务**                                              |
 | -------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 使用方式 | 开源本地部署                                                                       | 极速克隆API服务                                                           |
 | 推荐     | 技术型用户                                                                         | 业务型用户                                                                |
@@ -46,14 +46,14 @@ DuixAvatar数字人是由硅基智能发布的免费开源项目，支持本地�
 
 我们始终秉持开源初心，API服务的推出旨在为不同需求的开发者提供更完整的解决方案矩阵。无论您选择哪种方式，都可随时通过 [ duix.com](https://duix.com/) 获取技术支持文档。期待与各位共同推动数字人技术的普惠发展！
 
-## 【DuixAvatar数字人技术交流】
+## 【Duix.Avatar数字人技术交流】
 扫码加入技术交流群
 
 <img src="./README_zh.assets/cb10263a14cc826e22c2be4bcae01a89.jpg" width="50%">
 
 ## 【上线Coze平台】
 
-DuixAvatar 数字人克隆智能体和插件已成功上线至Coze 平台 ，无需复杂部署，即使是小白用户也能轻松上手直接使用。
+Duix.Avatar 数字人克隆智能体和插件已成功上线至Coze 平台 ，无需复杂部署，即使是小白用户也能轻松上手直接使用。
 
 戳这里直达Coze商店体验👉[硅基智能数字人克隆智能体](https://www.coze.cn/store/agent/7488696243959431206?bid=6ftfk9dtg0g12) | [硅基智能数字人克隆插件](https://www.coze.cn/store/plugin/7488926246634782746)
 
@@ -64,19 +64,19 @@ DuixAvatar 数字人克隆智能体和插件已成功上线至Coze 平台 ，无
 
 ## 【开源共创·荣耀共享】
 
-自从我们开源了DuixAvatar，全球极客已在代码宇宙中点亮数字分身矩阵，每个commit都在重构未来！但独乐乐不如众乐乐——现在诚邀各路大神加入「开源共创计划」，让AI创意赋能每个人，一起推动中国AI舰队驶向星辰大海！
+自从我们开源了Duix.Avatar，全球极客已在代码宇宙中点亮数字分身矩阵，每个commit都在重构未来！但独乐乐不如众乐乐——现在诚邀各路大神加入「开源共创计划」，让AI创意赋能每个人，一起推动中国AI舰队驶向星辰大海！
 
 1. 共创内容方向
 
-    分享DuixAvatar部署教程、优化指南、实战案例等高质量视频或文章（B站、抖音、小红书、公众号、知乎等）
+    分享Duix.Avatar部署教程、优化指南、实战案例等高质量视频或文章（B站、抖音、小红书、公众号、知乎等）
 
 2. 开源共创特供奖励池（真金白银奉上！）
 
     （1）基础奖励
 
-       内容获得 20-100 点赞，获评【DuixAvatar.ai 大师奖】及 20 元现金大师🧧
+       内容获得 20-100 点赞，获评【Duix.Avatar.ai 大师奖】及 20 元现金大师🧧
 
-       内容获得 100+ 点赞，获评【DuixAvatar.ai 之神奖】及 50 元现金大神🧧
+       内容获得 100+ 点赞，获评【Duix.Avatar.ai 之神奖】及 50 元现金大神🧧
 
     （2）特殊成就：
 
@@ -91,13 +91,13 @@ DuixAvatar 数字人克隆智能体和插件已成功上线至Coze 平台 ，无
 
 ## 共创优秀作品展
 
-[DuixAvatar数字人一键启动,8G显存可用,模型体积10G,不需要100G硬盘空间,不需要d盘,基于Docker单镜像,硅基开源](https://www.bilibili.com/video/BV1awQqYZEqB/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
+[Duix.Avatar数字人一键启动,8G显存可用,模型体积10G,不需要100G硬盘空间,不需要d盘,基于Docker单镜像,硅基开源](https://www.bilibili.com/video/BV1awQqYZEqB/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
 
-[Ai数字人16-本地部署！最火爆开源数字人DuixAvatar零基础手把手教学搭建教程，20%生成卡住解决方法，全套简化流程配套文件分享-T8 comfyui教程](https://www.bilibili.com/video/BV1ACQSYEErF/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
+[Ai数字人16-本地部署！最火爆开源数字人Duix.Avatar零基础手把手教学搭建教程，20%生成卡住解决方法，全套简化流程配套文件分享-T8 comfyui教程](https://www.bilibili.com/video/BV1ACQSYEErF/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
 
-[DuixAvatar开源见证历史了！赛博打工人革命啊！](https://www.bilibili.com/video/BV1R3QpYsEY6/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
+[Duix.Avatar开源见证历史了！赛博打工人革命啊！](https://www.bilibili.com/video/BV1R3QpYsEY6/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
 
-[数字人项目DuixAvatar本地部署教程](https://www.bilibili.com/video/BV1eWQ6YgEcp/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
+[数字人项目Duix.Avatar本地部署教程](https://www.bilibili.com/video/BV1eWQ6YgEcp/?spm_id_from=333.337.search-card.all.click&vd_source=618f44772c5dafb47317bb728505d79c)
 
 [真香！从付费到开源，AI数字人将开启新时代](http://xhslink.com/a/rQPYqoDSRih8)
 
@@ -105,15 +105,15 @@ DuixAvatar 数字人克隆智能体和插件已成功上线至Coze 平台 ，无
 
 [AI数字人免费啦！GitHub爆火项目电脑就能跑](http://xhslink.com/a/8UT1kQ7vxjh8)
 
-[最火爆免费AI数字人，DuixAvatar V1.0.3，最新更新，一键整合包！口型效果超强，速度飞起，支持长视频、批量生成，8G显存可用！](https://www.bilibili.com/video/BV1SkoCYpEwh/?share_source=copy_web&vd_source=c38dcdb72a68f2a4e0b3c0f4f9a5a03c)
+[最火爆免费AI数字人，Duix.Avatar V1.0.3，最新更新，一键整合包！口型效果超强，速度飞起，支持长视频、批量生成，8G显存可用！](https://www.bilibili.com/video/BV1SkoCYpEwh/?share_source=copy_web&vd_source=c38dcdb72a68f2a4e0b3c0f4f9a5a03c)
 
-[【DuixAvatar】一键包 windows直接运行 无需docker 硅基开源数字人](https://www.bilibili.com/video/BV1ZgovYGE3u/)
+[【Duix.Avatar】一键包 windows直接运行 无需docker 硅基开源数字人](https://www.bilibili.com/video/BV1ZgovYGE3u/)
 
 ## 【部署流程】
 
 <img src="README_zh.assets/image-20250304114114272.png">
 
-DuixAvatar是一款专为Windows系统设计的全离线视频合成工具，它能够精确克隆您的外貌和声音，让您的形象数字化。您可以通过文字和语音驱动虚拟形象，进行视频制作。无需联网，保护隐私的同时，也能享受到便捷和高效的数字体验。
+Duix.Avatar是一款专为Windows系统设计的全离线视频合成工具，它能够精确克隆您的外貌和声音，让您的形象数字化。您可以通过文字和语音驱动虚拟形象，进行视频制作。无需联网，保护隐私的同时，也能享受到便捷和高效的数字体验。
 
 - 核心功能
   - 精确外貌与声音克隆：运用先进的 AI 算法，高精度捕捉真人外貌特征，包括五官形状、面部轮廓等，构建逼真虚拟模型。同时，能精准克隆声音，捕捉并还原人声的细微特征，支持多种声音参数设置，可创造与原声高度相似的克隆效果。
@@ -135,7 +135,7 @@ DuixAvatar是一款专为Windows系统设计的全离线视频合成工具，它
 2. Docker Image
    - docker pull guiji2025/fun-asr
    - docker pull guiji2025/fish-speech-ziming
-   - docker pull guiji2025/DuixAvatar.ai
+   - docker pull guiji2025/Duix.Avatar.ai
 
 ## Windows 安装
 
@@ -201,7 +201,7 @@ DuixAvatar是一款专为Windows系统设计的全离线视频合成工具，它
 1. `docker-compose.yml`文件在`/deploy`目录下。
 2. 在`/deploy`目录执行`docker-compose up -d`，<u>如果您想使用lite版本，请执行`docker-compose -f docker-compose-lite.yml up -d`</u>
 3. 耐心等待一段时间（半小时左右，速度取决于网速），下载会消耗70G左右流量，注意连WIFI
-4. 看到Dokcer 中出现三个服务，表示成功了（lite版本只有一个服务`DuixAvatar-gen-video`）
+4. 看到Dokcer 中出现三个服务，表示成功了（lite版本只有一个服务`Duix.Avatar-gen-video`）
 
    ![e29d1922-7c58-46b4-b1e9-961f853f26d4](README_zh.assets/e29d1922-7c58-46b4-b1e9-961f853f26d4.png)
 
@@ -216,8 +216,8 @@ docker-compose -f docker-compose-5090.yml up -d
 
 ### 客户端
 
-1. 直接下载[官方构建的安装包](https://github.com/GuijiAI/DuixAvatar.ai/releases)
-2. 双击`DuixAvatar-x.x.x-setup.exe`即可安装
+1. 直接下载[官方构建的安装包](https://github.com/duixcom/Duix.Avatar/releases)
+2. 双击`Duix.Avatar-x.x.x-setup.exe`即可安装
 
 ## Ubuntu22.04 安装
 
@@ -290,10 +290,10 @@ docker-compose -f docker-compose-linux.yml up -d
 
 ### 客户端
 
-1. 直接下载[官方构建的安装包](https://github.com/GuijiAI/DuixAvatar.ai/releases)的Linux版本
-2. 双击`DuixAvatar-x.x.x.AppImage`即可启动，无需安装
+1. 直接下载[官方构建的安装包](https://github.com/duixcom/Duix.Avatar/releases)的Linux版本
+2. 双击`Duix.Avatar-x.x.x.AppImage`即可启动，无需安装
 
-  > 提醒：在Ubuntu系统中，如果您使用`root`用户进入桌面，直接双击`DuixAvatar-x.x.x.AppImage`可能运行不了，需要在命令行终端中执行`./DuixAvatar-x.x.x.AppImage --no-sandbox`,加上`--no-sandbox`参数即可。
+  > 提醒：在Ubuntu系统中，如果您使用`root`用户进入桌面，直接双击`Duix.Avatar-x.x.x.AppImage`可能运行不了，需要在命令行终端中执行`./Duix.Avatar-x.x.x.AppImage --no-sandbox`,加上`--no-sandbox`参数即可。
 
 ## 开放 API
 
@@ -308,8 +308,8 @@ docker-compose -f docker-compose-linux.yml up -d
 ### 模特训练
 
 1. 将视频分离为静音视频 + 音频
-2. 音频放到`D:\DuixAvatar_data\voice\data`下
-   > `D:\DuixAvatar_data\voice\data`是与`guiji2025/fish-speech-ziming`服务约定的，可以在docker-compose中修改
+2. 音频放到`D:\Duix.Avatar_data\voice\data`下
+   > `D:\Duix.Avatar_data\voice\data`是与`guiji2025/fish-speech-ziming`服务约定的，可以在docker-compose中修改
 3. 调用`http://127.0.0.1:18180/v1/preprocess_and_tran`接口
    > 参数示例：
    >
@@ -379,7 +379,7 @@ docker-compose -f docker-compose-linux.yml up -d
 
 - [常见问题](./doc/常见问题.md)
 
-- [DuixAvatar 开源数字人常见问题及解决办法](https://jexopm4t2a.feishu.cn/wiki/EjRPwux9DiNUtakOd1BcLQWEn3f))
+- [Duix.Avatar 开源数字人常见问题及解决办法](https://jexopm4t2a.feishu.cn/wiki/EjRPwux9DiNUtakOd1BcLQWEn3f))
 
 
 ## 提问前自查步骤
@@ -397,7 +397,7 @@ docker-compose -f docker-compose-linux.yml up -d
    - 服务端：到`/deploy`目录下重新执行`docker-compose up -d`
    - 客户端：`pull`代码后重新`build`
 
-4. [GitHub Issuse](https://github.com/GuijiAI/DuixAvatar.ai/issues)持续更新，每天都在解决和关闭问题单，经常看看，也许你的问题已经解决了。
+4. [GitHub Issuse](https://github.com/duixcom/Duix.Avatar/issues)持续更新，每天都在解决和关闭问题单，经常看看，也许你的问题已经解决了。
 
 ## 提问模板
 
@@ -434,4 +434,4 @@ docker-compose -f docker-compose-linux.yml up -d
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/DuixAvatar.ai&type=Date)](https://www.star-history.com/#GuijiAI/DuixAvatar.ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/Duix.Avatar.ai&type=Date)](https://www.star-history.com/#GuijiAI/Duix.Avatar.ai&Date)
