@@ -58,7 +58,7 @@ Duix.Avatar support two deployment modes：Windows / Ubuntu 22.04 Installation
 2. Docker Images
    - docker pull guiji2025/fun-asr
    - docker pull guiji2025/fish-speech-ziming
-   - docker pull guiji2025/heygem.ai
+   - docker pull guiji2025/duix.avatar
 
 
 

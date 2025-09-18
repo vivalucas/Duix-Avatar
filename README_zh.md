@@ -135,7 +135,7 @@ Duix.Avatar是一款专为Windows系统设计的全离线视频合成工具，�
 2. Docker Image
    - docker pull guiji2025/fun-asr
    - docker pull guiji2025/fish-speech-ziming
-   - docker pull guiji2025/heygem.ai
+   - docker pull guiji2025/duix.avatar
 
 ## Windows 安装
 
