@@ -111,7 +111,7 @@ Duix.Avatar 数字人克隆智能体和插件已成功上线至Coze 平台 ，�
 
 ## 【部署流程】
 
-<img src="README_zh.assets/image-20250304114114272.png">
+<img src="./README.assets/2.png">
 
 Duix.Avatar是一款专为Windows系统设计的全离线视频合成工具，它能够精确克隆您的外貌和声音，让您的形象数字化。您可以通过文字和语音驱动虚拟形象，进行视频制作。无需联网，保护隐私的同时，也能享受到便捷和高效的数字体验。
 
