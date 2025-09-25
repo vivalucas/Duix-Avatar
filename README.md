@@ -231,7 +231,7 @@ For specific code, refer to:
 1. Separate video into silent video + audio
 2. Place audio in
 
-    `D:\Duix.Avatar_data\voice\data` is agreed with the `guiji2025/fish-speech-ziming` service, can be modified in docker-compose
+    `D:\duix_avatar_data\voice\data` is agreed with the `guiji2025/fish-speech-ziming` service, can be modified in docker-compose
 
 3. Call the
 

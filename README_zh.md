@@ -308,8 +308,8 @@ docker-compose -f docker-compose-linux.yml up -d
 ### 模特训练
 
 1. 将视频分离为静音视频 + 音频
-2. 音频放到`D:\Duix.Avatar_data\voice\data`下
-   > `D:\Duix.Avatar_data\voice\data`是与`guiji2025/fish-speech-ziming`服务约定的，可以在docker-compose中修改
+2. 音频放到`D:\duix_avatar_data\voice\data`下
+   > `D:\duix_avatar_data\voice\data`是与`guiji2025/fish-speech-ziming`服务约定的，可以在docker-compose中修改
 3. 调用`http://127.0.0.1:18180/v1/preprocess_and_tran`接口
    > 参数示例：
    >
