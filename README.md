@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="README.assets/1.png" style="width: 580px; height: auto;"/>
-</div>
+# 🚀🚀🚀 Duix Avatar — Truly open-source AI avatar toolkit for offline video generation and digital human cloning
+
+🔗 **Office website:** [www.duix.com](http://www.duix.com)
 
 # Table of Contents
 
