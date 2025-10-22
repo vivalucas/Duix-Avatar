@@ -1,4 +1,9 @@
 # Duix.Avatar [【Switch to English】](./README.md)
+
+## 【使用说明（局域网部署）】
+- 文档中的 IP 示例（如 `10.1.1.6`、`10.1.1.8`）仅为演示，实际请按用户局域网服务器/客户端 IP 来定；文中的 `<LAN_SERVER_IP>` 请替换为你的后端服务器 IP。
+- 客户端/服务端地址与数据路径支持环境变量覆盖：`DUIX_TTS_URL`、`DUIX_F2F_URL`、`DUIX_DATA_ROOT_WIN`、`DUIX_DATA_ROOT_LINUX`；未设置时使用默认示例值。
+
 ## 【项目介绍】
 Duix.Avatar数字人是由硅基智能发布的免费开源项目，支持本地部署/API调用。
 
@@ -435,3 +440,7 @@ docker-compose -f docker-compose-linux.yml up -d
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/Duix.Avatar&type=Date)](https://www.star-history.com/#duixcom/Duix.Avatar&Date)
+
+## 使用说明（局域网部署）
+- 文档中的 IP 示例（如 `10.1.1.6`、`10.1.1.8`）仅为演示，实际请按用户局域网服务器/客户端 IP 来定；文中的 `<LAN_SERVER_IP>` 请替换为你的后端服务器 IP。
+- 客户端/服务端地址与数据路径支持环境变量覆盖：`DUIX_TTS_URL`、`DUIX_F2F_URL`、`DUIX_DATA_ROOT_WIN`、`DUIX_DATA_ROOT_LINUX`；未设置时使用默认示例值。
